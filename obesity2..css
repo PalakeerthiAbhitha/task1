@@ -1,0 +1,88 @@
+
+body{
+margin: 0em;
+padding: 0em;
+overflow-x: hidden;
+background-color:lightpink
+}
+.container{
+    width: 20px;
+    height: 20px;
+    margin-left: 55px;
+    gap: 1em;
+    margin-top: 30px; 
+    background-color: darkgray;
+    background-color:lightpink
+} 
+.img1{
+    width: 30px;
+    height: 20px;
+    
+}  
+
+.container1{
+    height: 20px;
+    width: 30px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.heading{
+    color: hsl(360, 84%, 66%);
+}
+.people{
+    margin-top: 30px;
+    margin-left:100px;
+    gap: 2em;
+    width: 20px;
+    height: 20px;
+
+}
+.threepersons{
+    width: 30px;
+    background-color: darkgoldenrod;
+    height: 90px;
+    margin-top: 30px;
+}
+.moveright{
+    display: grid;
+    grid-auto-flow: column;
+    margin-left: 40em;
+    gap: 2em;
+    margin-right: 30px;
+    margin-top: 7em;
+}
+.margin{
+    margin-top: 5em
+}
+
+.col-6 bg-info{
+    text-align: center;
+
+}
+.marginrow{
+    height: 60px;
+    width: 60px;
+
+}
+.smoking{
+    height: 10px;
+    width: 10px;
+    margin-left: -90%;
+
+}
+.col-12{
+    margin-left: 12px;
+}
+.bicycle{
+    height: -50px;
+    width: 50px;
+    margin-left: 900px;
+    margin-top: 30px;
+    gap: 7em;
+}
+.money{
+    height: 120px;
+    width: 100px;
+    margin-top: 30px;
+}
+
